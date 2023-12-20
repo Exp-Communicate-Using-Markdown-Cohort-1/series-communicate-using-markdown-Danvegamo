@@ -12,5 +12,4 @@ Okey, this is a mery example nd dont need to use seriously
   - [x] Using a task list
   - [x] Understanding markdown for obsidian
       - [x] Changing Obsidian vault
-      - [] Outline my portfolio
-      - 
+      - [ ] Outline my portfolio
